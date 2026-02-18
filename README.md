@@ -1,54 +1,92 @@
 # 🐍 Python Job Scraper
 
-This project is a web scraper built using Python.  
-It collects job listings from the Fake Python Jobs website and saves them into a CSV file.
+## 🔗 Project URL
+https://github.com/r0r0r0r/jobs_scraper
 
+---
 
-<h2>📸 Project </h2>
+## 📸 Project Screenshot
 
-<img src="jobs.png" width="500">
+<p align="center">
+  <img src="jobs.png" width="700">
+</p>
 
+---
 
 ## 📌 Project Overview
 
-The scraper extracts:
-- Job Title
-- Company Name
-- Location
-- Link to full job description
+This project is a Python web scraper that collects job listings from the **Fake Python Jobs** website.
 
-The data is stored in a CSV file for further analysis.
+The scraper extracts:
+
+- Job Title  
+- Company Name  
+- Location  
+- Link to Full Job Description  
+
+The collected data is saved into a CSV file for further analysis.
 
 ---
 
 ## 🛠 Technologies Used
 
-- Python
-- Requests
-- BeautifulSoup
-- CSV
+- Python  
+- Requests  
+- BeautifulSoup  
+- CSV  
 
 ---
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
+1️⃣ Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/python-job-scraper.git
-
-
-2. Install required packages:
+git clone https://github.com/r0r0r0r/jobs_scraper.git
 
 
+2️⃣ Navigate into the project folder:
+
+cd jobs_scraper
+
+
+3️⃣ Install required packages:
 
 pip install -r requirements.txt
 
 
-3. Run the notebook or Python script.
-
-   https://github.com/r0r0r0r/jobs_scraper
-
+4️⃣ Run the notebook or Python script.
 
 ---
 
 ## 📂 Project Structure
+
+jobs_scraper/
+│
+├── job_scraper.ipynb
+├── jobs.png
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 🎯 Future Improvements
+
+- Add pagination support  
+- Add error handling  
+- Convert notebook to reusable Python script  
+- Deploy as a web application  
+
+---
+
+## 📖 Data Source
+
+Fake Python Jobs Website:  
+https://realpython.github.io/fake-jobs/
+
+---
+
+## 👨‍💻 Author
+
+r0r0r0r
+
