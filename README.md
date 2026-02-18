@@ -1,6 +1,7 @@
 # 🐍 Python Job Scraper
 
 ## 🔗 Project URL
+https://roadmap.sh/projects/job-listings-scraper
 https://github.com/r0r0r0r/jobs_scraper/tree/main
 
 ---
