@@ -28,3 +28,18 @@ The data is stored in a CSV file for further analysis.
 
 1. Clone the repository:
 
+git clone https://github.com/YOUR_USERNAME/python-job-scraper.git
+
+
+2. Install required packages:
+
+
+
+pip install -r requirements.txt
+
+
+3. Run the notebook or Python script.
+
+---
+
+## 📂 Project Structure
