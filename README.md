@@ -4,7 +4,10 @@ This project is a web scraper built using Python.
 It collects job listings from the Fake Python Jobs website and saves them into a CSV file.
 
 
-![Job Scraper Screenshot](jobs.png)
+<h2>📸 Project Screenshot</h2>
+
+<img src="jobs.png" width="600">
+
 
 ## 📌 Project Overview
 
