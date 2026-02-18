@@ -1,7 +1,7 @@
 # 🐍 Python Job Scraper
 
 ## 🔗 Project URL
-https://github.com/r0r0r0r/jobs_scraper
+https://github.com/r0r0r0r/jobs_scraper/tree/main
 
 ---
 
