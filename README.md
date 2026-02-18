@@ -46,6 +46,9 @@ pip install -r requirements.txt
 
 3. Run the notebook or Python script.
 
+   https://github.com/r0r0r0r/jobs_scraper
+
+
 ---
 
 ## 📂 Project Structure
